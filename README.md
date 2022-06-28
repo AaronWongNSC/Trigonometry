@@ -8,5 +8,5 @@
 
 # Contents
  - 5.1: Circles
-  - Link to Videos
-  - [Section 5.1 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/5.1-Classwork.pdf)
+    - Link to Videos
+    - [Section 5.1 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/5.1-Classwork.pdf)
