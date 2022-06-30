@@ -17,7 +17,7 @@
     - [Section 5.1 - Video 3: The Intersection of a Circle and a Line](https://youtu.be/9uQ63ORbjCE)
     - [Section 5.1 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/5.1-Classwork.pdf)
  - Section 5.2: Circles
-    - Link to Videos
+    - [Section 5.2 - Video 1a: Angles (Part 1)](https://youtu.be/EFX7hNQoCrY)
     - [Section 5.2 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/5.2-Classwork.pdf)
  - Section 5.3: Points on Circles
     - Link to Videos
