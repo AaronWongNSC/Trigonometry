@@ -8,7 +8,7 @@
 
 # Summary
  - Link to Learning Outcomes
- - Link to Video Playlist
+ - [YouTube Playlist](https://www.youtube.com/playlist?list=PLQTQDG8nyMPjNu6cOf5ULMnIDKm-9-1Sf)
 
 # Course Contents
  - Section 5.1: Circles
