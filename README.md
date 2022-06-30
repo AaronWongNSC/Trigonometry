@@ -16,8 +16,10 @@
     - [Section 5.1 - Video 2: Circles](https://youtu.be/had4CF5yNs8)
     - [Section 5.1 - Video 3: The Intersection of a Circle and a Line](https://youtu.be/9uQ63ORbjCE)
     - [Section 5.1 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/5.1-Classwork.pdf)
- - Section 5.2: Circles
-    - [Section 5.2 - Video 1a: Angles (Part 1)](https://youtu.be/EFX7hNQoCrY)
+ - Section 5.2: Angles
+    - [Section 5.2 - Video 1a: Measuring Angles (Part 1)](https://youtu.be/EFX7hNQoCrY)
+    - [Section 5.2 - Video 1b: Measuring Angles (Part 2)](https://youtu.be/SBvHyMA67dA)
+    - [Section 5.2 - Video 2: Common Angles of the Unit Circle](https://youtu.be/1UCTypzVXYA)
     - [Section 5.2 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/5.2-Classwork.pdf)
  - Section 5.3: Points on Circles
     - Link to Videos
