@@ -14,6 +14,7 @@
  - Section 5.1: Circles
     - [Section 5.1 - Video 1: The Pythagorean Theorem and Distance](https://youtu.be/ZEVm0dn4c88)
     - [Section 5.1 - Video 2: Circles](https://youtu.be/had4CF5yNs8)
+    - [Section 5.1 - Video 3: The Intersection of a Circle and a Line](https://youtu.be/9uQ63ORbjCE)
     - [Section 5.1 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/5.1-Classwork.pdf)
  - Section 5.2: Circles
     - Link to Videos
