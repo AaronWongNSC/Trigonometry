@@ -23,7 +23,10 @@
     - [Section 5.2 - Video 3: Arc Length and Area](https://youtu.be/nf-Eduo64Io)
     - [Section 5.2 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/5.2-Classwork.pdf)
  - Section 5.3: Points on Circles
-    - Link to Videos
+    - [Section 5.3 - Video 1: Sine and Cosine Functions on the Plane](https://youtu.be/ugpy8PuHRrU)
+    - [Section 5.3 - Video 2: The Pythagorean Identity](https://youtu.be/Zm-_s09285k)
+    - [Section 5.3 - Video 3: Reference Angles](https://youtu.be/R7WoOZPrEmw)
+    - [Section 5.3 - Video 4: The Unit Circle Diagram](https://youtu.be/77YW58EMQZM)
     - [Section 5.3 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/5.3-Classwork.pdf)
  - Section 5.4: The Other Trigonometric Functions
     - Link to Videos
