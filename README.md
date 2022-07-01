@@ -20,6 +20,7 @@
     - [Section 5.2 - Video 1a: Measuring Angles (Part 1)](https://youtu.be/EFX7hNQoCrY)
     - [Section 5.2 - Video 1b: Measuring Angles (Part 2)](https://youtu.be/SBvHyMA67dA)
     - [Section 5.2 - Video 2: Common Angles of the Unit Circle](https://youtu.be/1UCTypzVXYA)
+    - [Section 5.2 - Video 3: Arc Length and Area](https://youtu.be/nf-Eduo64Io)
     - [Section 5.2 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/5.2-Classwork.pdf)
  - Section 5.3: Points on Circles
     - Link to Videos
