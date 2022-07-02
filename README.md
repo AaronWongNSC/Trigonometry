@@ -45,18 +45,29 @@
     - [Section 6.1 - Video 2: The Negative Angle Identities](https://youtu.be/r7GPHnwzMfw)
     - [Section 6.1 - Video 3a: The Key Values of Transformed Trigonometric Functions (Part 1)](https://youtu.be/Ar2X7orfFdc)
     - [Section 6.1 - Video 3b: The Key Values of Transformed Trigonometric Functions (Part 2)](https://youtu.be/XLZ1KJU99hA)
+    - [Section 6.1 - Video 4a: Transformed Sinusoidals (Part 1)](https://youtu.be/F7sUa5sex7Q)
+    - [Section 6.1 - Video 4b: Transformed Sinusoidals (Part 2)](https://youtu.be/fp7DGM1REuo)
     - [Section 6.1 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/6.1-Classwork.pdf)
  - Section 6.2: Graphs of the Other Trig Functions
-    - Link to Videos
+    - [Section 6.2 - Video 1: The Graphs of Tangent and Cotangent](https://youtu.be/PNcF0f-aL0Y)
+    - [Section 6.2 - Video 2: The Graphs of Secant and Cosecant](https://youtu.be/hYT0uEHl2q8)
+    - [Section 6.2 - Video 3: The Graphs of Transformed Trigonometric Functions](https://youtu.be/JO0VwPZVRVk)
+    - [Section 6.2 - Video 4: The Negative Angle Identities](https://youtu.be/m9vUS0gMiYE)
     - [Section 6.2 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/6.2-Classwork.pdf)
  - Section 6.3: Inverse Trig Functions
-    - Link to Videos
+    - [Section 6.3 - Video 1: The Inverse Trigonometric Functions](https://youtu.be/PojLuiazIwE)
+    - [Section 6.3 - Video 2: Evaluating Inverse Trigonometric Functions](https://youtu.be/Qsjw3ewySxo)
+    - [Section 6.3 - Video 3: Compositions of Trigonometric Functions and Inverse Trigonometric Functions](https://youtu.be/aIGdx8GtevM)
     - [Section 6.3 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/6.3-Classwork.pdf)
  - Section 6.4: Solving Trig Functions
-    - Link to Videos
+    - [Section 6.4 - Video 1: Graphs and Solutions](https://youtu.be/SduLiomk80s)
+    - [Section 6.4 - Video 2: Exact Solutions](https://youtu.be/4rNH1xpS7u8)
+    - [Section 6.4 - Video 3: Approximate Solutions](https://youtu.be/rLGEgt7inGU)
+    - [Section 6.4 - Video 4: Solving More Complex Equations](https://youtu.be/BnsR5Bf-8OU)
     - [Section 6.4 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/6.4-Classwork.pdf)
  - Section 6.5: Modeling with Trigonometric Functions
-    - Link to Videos
+    - [Section 6.5 - Video 1: Geometric Word Problems](https://youtu.be/7PQsK72N_sM)
+    - [Section 6.5 - Video 2: Algebraic Word Problems](https://youtu.be/bIKMDQKhgmc)
     - [Section 6.5 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/6.5-Classwork.pdf)
  - Section 7.1: Solving Trigonometric Equations with Identities
     - Link to Videos
