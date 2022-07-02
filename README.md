@@ -41,7 +41,10 @@
     - [Section 5.5 - Video 3: Solving Right Triangles](https://youtu.be/eZhFJ5XnIJg)
     - [Section 5.5 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/5.5-Classwork.pdf)
  - Section 6.1: Sinusoidal Graphs
-    - Link to Videos
+    - [Section 6.1 - Video 1: The Graphs of Sine and Cosine](https://youtu.be/LD3ZG-y1u_8)
+    - [Section 6.1 - Video 2: The Negative Angle Identities](https://youtu.be/r7GPHnwzMfw)
+    - [Section 6.1 - Video 3a: The Key Values of Transformed Trigonometric Functions (Part 1)](https://youtu.be/Ar2X7orfFdc)
+    - [Section 6.1 - Video 3b: The Key Values of Transformed Trigonometric Functions (Part 2)](https://youtu.be/XLZ1KJU99hA)
     - [Section 6.1 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/6.1-Classwork.pdf)
  - Section 6.2: Graphs of the Other Trig Functions
     - Link to Videos
