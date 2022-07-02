@@ -21,6 +21,7 @@
     - [Section 5.2 - Video 1b: Measuring Angles (Part 2)](https://youtu.be/SBvHyMA67dA)
     - [Section 5.2 - Video 2: Common Angles of the Unit Circle](https://youtu.be/1UCTypzVXYA)
     - [Section 5.2 - Video 3: Arc Length and Area](https://youtu.be/nf-Eduo64Io)
+    - [Section 5.2 - Video 4: Linear and Angular Velocity](https://youtu.be/37IgAzLd2e8)
     - [Section 5.2 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/5.2-Classwork.pdf)
  - Section 5.3: Points on Circles
     - [Section 5.3 - Video 1: Sine and Cosine Functions on the Plane](https://youtu.be/ugpy8PuHRrU)
@@ -29,10 +30,15 @@
     - [Section 5.3 - Video 4: The Unit Circle Diagram](https://youtu.be/77YW58EMQZM)
     - [Section 5.3 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/5.3-Classwork.pdf)
  - Section 5.4: The Other Trigonometric Functions
-    - Link to Videos
+    - [Section 5.4 - Video 1: Other Trig Function Definitions and Relationships](https://youtu.be/vWFKAlZCDrU)
+    - [Section 5.4 - Video 2: The Other Pythagorean Identities](https://youtu.be/WcJaMlO4sUY)
+    - [Section 5.4 - Video 3: Algebra and Geometry](https://youtu.be/8-cWW5b09HE)
+    - [Section 5.4 - Video 4: Proving Trigonometric Identities](https://youtu.be/PgJmXQfcnxE)
     - [Section 5.4 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/5.4-Classwork.pdf)
  - Section 5.5: Right Triangle Trigonometry
-    - Link to Videos
+    - [Section 5.5 - Video 1: The Right Triangle Relationships](https://youtu.be/c4LfOKsvo8U)
+    - [Section 5.5 - Video 2: The Cofunction Identities](https://youtu.be/vXtFvTcnmvc)
+    - [Section 5.5 - Video 3: Solving Right Triangles](https://youtu.be/eZhFJ5XnIJg)
     - [Section 5.5 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/5.5-Classwork.pdf)
  - Section 6.1: Sinusoidal Graphs
     - Link to Videos
