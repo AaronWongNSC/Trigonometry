@@ -70,13 +70,21 @@
     - [Section 6.5 - Video 2: Algebraic Word Problems](https://youtu.be/bIKMDQKhgmc)
     - [Section 6.5 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/6.5-Classwork.pdf)
  - Section 7.1: Solving Trigonometric Equations with Identities
-    - Link to Videos
+    - [Section 7.1 - Video 1: Review of the Identities](https://youtu.be/n_8svd_KUoQ)
+    - [Section 7.1 - Video 2: Solving by Factoring](https://youtu.be/ix6fr7PDrGo)
+    - [Section 7.1 - Video 3: Solving with the Quadratic Formula](https://youtu.be/UG8J-GYIu6k)
     - [Section 7.1 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/7.1-Classwork.pdf)
  - Section 7.2: Addition and Subtraction Identities
-    - Link to Videos
+    - [Section 7.2 - Video 1: The Sum and Difference Identities](https://youtu.be/KHd5VJtOxH0)
+    - [Section 7.2 - Video 2: Applications of the Sum and Difference Identities](https://youtu.be/e7mE7aGoUBY)
+    - [Section 7.2 - Video 3: Sums of Sinusoidals](https://youtu.be/l0bHZQC0xtg)
+    - [Section 7.2 - Video 4: More Identities](https://youtu.be/d0yrbuHLKEE)
     - [Section 7.2 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/7.2-Classwork.pdf)
  - Section 7.3: Double Angle Identities
-    - Link to Videos
+    - [Section 7.3 - Video 1: The Double Angle Identities](https://youtu.be/qqbvygyPr64)
+    - [Section 7.3 - Video 2: Applications of the Double Angle Identities](https://youtu.be/ur4AgKkb46A)
+    - [Section 7.3 - Video 3: The Power Reduction Formulas](https://youtu.be/RjqbucEo6lM)
+    - [Section 7.3 - Video 4: The Half-Angle Identities](https://youtu.be/0fMkt-NVXYI)
     - [Section 7.3 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/7.3-Classwork.pdf)
  - Section 7.4: Modeling Changing Amplitude and Midline
     - Link to Videos
