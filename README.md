@@ -87,10 +87,15 @@
     - [Section 7.3 - Video 4: The Half-Angle Identities](https://youtu.be/0fMkt-NVXYI) (5:42)
     - [Section 7.3 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/7.3-Classwork.pdf)
  - Section 7.4: Modeling Changing Amplitude and Midline
-    - Link to Videos
+    - [Section 7.4 - Video 1: Variable Amplitude and Midline](https://youtu.be/TzWHOWp4BOo) (3:56)
+    - [Section 7.4 - Video 2: Population Models](https://youtu.be/jmy_CoXz8wY) (9:00)
+    - [Section 7.4 - Video 3: Damped Harmonic Oscillation](https://youtu.be/E5WjacwThPk) (9:59)
     - [Section 7.4 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/7.4-Classwork.pdf)
  - Section 8.1: Non-right Triangles: Law of Sines and Cosines
-    - Link to Videos
+    - [Section 8.1 - Video 1: The Law of Sines](https://youtu.be/oTPcYu6Yy8E) (8:02)
+    - [Section 8.1 - Video 2: The Ambiguous Case](https://youtu.be/oEHI02_kwks) (13:01)
+    - [Section 8.1 - Video 3: The Law of Cosines](https://youtu.be/kMHUuo28bW8) (8:42)
+    - [Section 8.1 - Video 4: Applications](https://youtu.be/aLyG_Av8n5Q) (11:08)
     - [Section 8.1 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/8.1-Classwork.pdf)
  - Section 8.2: Polar Coordinates
     - Link to Videos
