@@ -7,7 +7,7 @@
  - Developed: Fall 2022
 
 # Summary
- - Link to Learning Outcomes
+ - [Learning Objectives](https://github.com/AaronWongNSC/Trigonometry/blob/main/LearningObjectives.pdf)
  - [YouTube Playlist](https://www.youtube.com/playlist?list=PLQTQDG8nyMPjNu6cOf5ULMnIDKm-9-1Sf)
 
 # Course Contents
