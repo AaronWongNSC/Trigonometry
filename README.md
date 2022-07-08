@@ -11,7 +11,7 @@
  - [YouTube Playlist](https://www.youtube.com/playlist?list=PLQTQDG8nyMPjNu6cOf5ULMnIDKm-9-1Sf)
 
 # Other Course Materials
- - [Learning Objectives Worksheet](https://github.com/AaronWongNSC/Trigonometry/blob/main/LearningObjectivesWorksheet.pdf)
+ - [Learning Objectives Worksheet](https://github.com/AaronWongNSC/Trigonometry/blob/main/LearningObjectiveWorksheet.pdf)
  - [Homework](https://github.com/AaronWongNSC/Trigonometry/blob/main/HW.pdf)
 
 # Course Contents
