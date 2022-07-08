@@ -98,7 +98,9 @@
     - [Section 8.1 - Video 4: Applications](https://youtu.be/aLyG_Av8n5Q) (11:08)
     - [Section 8.1 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/8.1-Classwork.pdf)
  - Section 8.2: Polar Coordinates
-    - Link to Videos
+    - [Section 8.2 - Video 1: Polar Coordinates](https://youtu.be/xkDl2Pwcdh8) (10:24)
+    - [Section 8.2 - Video 2: Converting Equations](https://youtu.be/GXB9WFvN0Rs) (7:28)
+    - [Section 8.2 - Video 3: Polar Graphs](https://youtu.be/pt4tQiWURbI) (14:27)
     - [Section 8.2 Classwork](https://github.com/AaronWongNSC/Trigonometry/blob/main/8.2-Classwork.pdf)
 
 
