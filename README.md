@@ -2,7 +2,7 @@
 
 # Trigonometry
  - Course Title: Precalculus 2 (Trigonometry)
- - Course Number: MATH 127, Nevada State College
+ - Course Number: MATH 127, [Nevada State College](https://www.nsc.edu/)
  - Textbook: [Precalculus: An Investigation of Functions](https://www.opentextbookstore.com/precalc/)
  - Developed: Fall 2022
 
