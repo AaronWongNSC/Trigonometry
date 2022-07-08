@@ -10,6 +10,10 @@
  - [Learning Objectives](https://github.com/AaronWongNSC/Trigonometry/blob/main/LearningObjectives.pdf)
  - [YouTube Playlist](https://www.youtube.com/playlist?list=PLQTQDG8nyMPjNu6cOf5ULMnIDKm-9-1Sf)
 
+# Other Course Materials
+ - [Learning Objectives Worksheet](https://github.com/AaronWongNSC/Trigonometry/blob/main/LearningObjectivesWorksheet.pdf)
+ - [Homework](https://github.com/AaronWongNSC/Trigonometry/blob/main/HW.pdf)
+
 # Course Contents
  - Section 5.1: Circles
     - [Section 5.1 - Video 1: The Pythagorean Theorem and Distance](https://youtu.be/ZEVm0dn4c88) (9:26)
