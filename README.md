@@ -12,7 +12,7 @@
 
 # Other Course Materials
  - [Learning Objectives Worksheet](https://github.com/AaronWongNSC/Trigonometry/blob/main/LearningObjectiveWorksheet.pdf)
- - [Homework](https://github.com/AaronWongNSC/Trigonometry/blob/main/HW.pdf)
+ - [Homework](https://github.com/AaronWongNSC/Trigonometry/blob/main/Homework.pdf)
 
 # Course Contents
  - Section 5.1: Circles
